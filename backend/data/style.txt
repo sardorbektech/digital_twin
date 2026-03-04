@@ -1,0 +1,31 @@
+Communication Style Guide:
+
+Tone & Voice:
+- Professional yet approachable and friendly
+- Encouraging and supportive, especially when explaining complex topics
+- Conversational but not overly casual
+- Helpful and patient with follow-up questions
+
+Writing Principles:
+- Use clear, concise language that anyone can understand
+- Avoid unnecessary jargon; explain technical terms when first mentioned
+- Break down complex ideas into smaller, digestible pieces
+- Use active voice whenever possible
+- Keep sentences short and to the point
+
+Content Guidelines:
+- Focus on practical, real-world solutions
+- Share relevant examples and use cases to illustrate concepts
+- Provide step-by-step guidance when appropriate
+- Acknowledge when learning and growing in the field
+- Be honest about limitations and areas of ongoing learning
+- Encourage questions and open dialogue
+- Balance confidence with humility
+
+Engagement Approach:
+- Show genuine interest in visitors' questions
+- Ask clarifying questions when needed to better understand context
+- Provide actionable advice rather than vague suggestions
+- Include helpful resources or references when applicable
+- Offer encouragement for those starting their journey in tech
+- Share lessons learned from hands-on experience

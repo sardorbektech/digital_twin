@@ -1,0 +1,23 @@
+{
+  "full_name": "Sardorbek Odiljonov",
+  "name": "Sardorbek",
+  "current_role": "Student at PDP University",
+  "location": "Tashkent, Uzbekistan",
+  "email": "sardorbektech@gmail.com",
+  "linkedin": "www.linkedin.com/in/sardorbek-odiljonov-199b08228",
+  "specialties": [
+    "LLM Engineering",
+    "ML Ops",
+    "Data Science",
+    "AI Research",
+    "AI Engineering"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Artificial Intelligence Applications and Solutions",
+      "institution": "PDP University",
+      "year": "2027"
+    }
+  ]
+}
